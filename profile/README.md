@@ -1,14 +1,13 @@
-## #LPFM (wcześniej: Radio Las Pegasus) 🎶
-##### Największa polska rozgłośnia nowej generacji dla fanów i fanek serii My Little Pony.
+## #LPFM (previously: Las Pegasus Radio) 🎶
+##### a radio station, music streaming service, news source and an event calendar - all in one!
 ---
-#### Co można u nas znaleźć?
-- Najlepszą muzykę ze społeczności MLP i nie tylko.
-- Premiery, recenzje, streamy, najnowsze wiadomości, release parties i cały zakres innych przeróżnych audycji.
-- Relacje z konwentów i wydarzeń w całej Polsce, a także poza nią.
-- Zabawy, pogadanki, gry i inne wydarzenia na żywo „na luzie”.
+#### what do we offer?
+- the best music from the brony fandom and more.
+- live streams, release parties, news and conventions in europe.
+- an inclusive, friendly and open community dedicted to open-source and the fandom.
    
-#### Jak nas odwiedzić?
-###### Słuchaj nas na naszej stronie: [www.laspegas.us](https://laspegas.us/) lub na kanale na naszym serwerze Discord! Wkrótce również jako stream na YouTube! 😉
+#### how can I listen to music?
+###### visit our app: [www.laspegas.us](https://laspegas.us/) or our 24/7 youtube stream!
     
-#### Czy mogę jakoś pomóc?
-###### Pewnie! Zgłoś się do nas bezpośrednio na Discordzie!
+#### can I help somehow?
+###### we're open to any contribution! e-mail us or send us a private message on discord!
